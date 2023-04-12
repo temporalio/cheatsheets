@@ -1,7 +1,5 @@
 # CLI Cheatsheet for Local Development
 
-The new CLI replaces Temporalite and `tctl`.
-
 ## Start a development server 
 
 ```command 

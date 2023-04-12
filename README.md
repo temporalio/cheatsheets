@@ -1,4 +1,4 @@
-# Temporal Cheatsheets 
+# CLI Cheatsheets 
 
 The [new CLI](https://github.com/temporalio/cli) replaces Temporalite and `tctl`. 
 
